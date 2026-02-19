@@ -2,7 +2,7 @@
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
-<title>Digital Agency Bootstrap Template</title>
+
 </head>
 
 <body>
